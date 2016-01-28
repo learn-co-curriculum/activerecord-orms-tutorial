@@ -351,4 +351,4 @@ Woohoo!
 ## Resources
 * [Wikipedia](http://en.wikipedia.org/) - [Object-Relational Mapping](http://en.wikipedia.org/wiki/Object-relational_mapping)
 
-<a href='https://learn.co/lessons/activerecord-orms-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/activerecord-orms-tutorial' title='ORMs in General'>ORMs in General</a> on Learn.co and start learning to code for free.</p>
